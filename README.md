@@ -1,4 +1,4 @@
-# Kali “No More --fix-missing” Script
+# KaliQuickFix
 
 **hate when the terminal tells you to --fix-missing or --break-system-packages? well no more! this script will fix both of these issues for good**
 
