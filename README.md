@@ -1,5 +1,5 @@
 # KaliQuickFix
-![Kali Linux](https://img.shields.io/badge/KaliLinux-blue.svg) ![Bash](https://img.shields.io/badge/Bash-Bash-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ---
 **hate when the terminal tells you to --fix-missing or --break-system-packages? well no more! this script will fix both of these issues for good**
 
